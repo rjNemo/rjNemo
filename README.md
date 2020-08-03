@@ -1,4 +1,4 @@
-[![Header](readme_header.png "Header")](https://ruidyportfolio.herokuapp.com/)
+[![Header](https://raw.githubusercontent.com/rjNemo/rjNemo/master/readme_header.png "Header")](https://ruidyportfolio.herokuapp.com/)
 
 # <center>👋 Hi! I'm Ruidy</center>
 
