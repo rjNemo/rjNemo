@@ -32,6 +32,8 @@ I consider programming languages as tools and love to learn as much as possible.
 
 ## More Details
 
+[![Ruidy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjnemo)](https://github.com/rjnemo)
+
 ![Metrics](https://metrics.lecoq.io/rjNemo?template=classic&languages=1&isocalendar=1&followup=1&activity=1&pagespeed=1&activity.limit=5&activity.days=14&activity.filter=all&isocalendar.duration=undefined&languages.colors=github&languages.threshold=0%25&pagespeed.url=.user.website&pagespeed.detailed=undefined&pagespeed.screenshot=undefined&config.timezone=Europe%2FBerlin&config.animated=true)
 
 <!-- Icons -->
