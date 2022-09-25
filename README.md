@@ -2,13 +2,13 @@
 
 # <center>👋 Hi! I'm Ruidy</center>
 
-## <center>Full-Stack Software Engineer</center>
+## <center>Senior Full-Stack Software Engineer & Tech Lead</center>
 
-You can find me on  [![LinkedIn][1.1]][1]
+You can find me on [![LinkedIn][1.1]][1]
 
 ### 😄 Who I Am 
 
-PhD in Physics (Sorbonnes Université, Paris) living in Hamburg (Germany).
+Ph.D. in Physics (Sorbonnes Université, Paris) living in Hamburg (Germany).
 
 I am obsessed with first-principles such as: 
 - Test-Driven Development, 
@@ -44,6 +44,6 @@ I consider programming languages as tools and love to learn as much as possible.
 
 <!-- Links to your social media accounts -->
 
-[1]: https://www.linkedin.com/in/ruidy-nemausat-522b4069/
+[1]: https://www.linkedin.com/in/ruidy-nemausat/
 
 
