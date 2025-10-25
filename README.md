@@ -1,35 +1,47 @@
-[![Header](https://raw.githubusercontent.com/rjNemo/rjNemo/master/readme_header.png "Header")]([https://ruidyportfolio.herokuapp.com/](https://ruidy.onrender.com/))
+[![Header](https://raw.githubusercontent.com/rjNemo/rjNemo/master/readme_header.png "Header")](<[https://ruidy.nemausat.com/](https://ruidy.nemausat.com/)>)
 
 # <center>👋 Hi! I'm Ruidy</center>
 
-## <center>Senior Fullstack Software Engineer & Tech Lead</center>
+## <center>Principal Engineer • Software Architect • Tech Lead</center>
 
 You can find me on [![LinkedIn][1.1]][1]
 
-### 😄 Who I Am 
+### ⚙️ About Me
+
+Ph.D. in Physics (Sorbonne Université, Paris) based in Hamburg, Germany.
+I build scalable, observable, and maintainable software — systems that don’t
+just work, but explain themselves through clean architecture, strong testing, and
+thoughtful data modeling.
+
+I move comfortably between hands-on coding and strategic leadership, bridging the
+gap between developers, stakeholders, and executives. My experience spans product
+direction, technical design, and cross-team collaboration.
 
 Ph.D. in Physics (Sorbonnes Université, Paris) living in Hamburg (Germany).
 
-I am obsessed with first-principles such as: 
+I am obsessed with first-principles such as:
+
 - properly tested software,
 - Domain-Driven Design,
 - Software Architecture,
-- Clean Code,
-- Clean Architecture.
+- readable code,
 
-### 💬 What I do
+### 💻 What I Work With
 
-My main languages are: 
-- Python 3, 
-- Javascript (mostly TypeScript) using React and Vue (nuxt)
-- Go. 
+- Languages: Go • Python • TypeScript
+- Frameworks: Vue (Nuxt) • React
+- Focus Areas: Cloud platforms • Distributed systems • Data modeling • Observability
 
-I have used these to successfully scale applications to million of concurrent users.
+I believe observability and testing form the bedrock of good engineering — without
+them, design is just decoration.
 
-I consider programming languages as tools and love to learn as much as possible. 
+I consider programming languages as tools and love to learn as much as possible.
 
-🌱 At the moment, I am very interested in Rust, htmx, and Elixir.
+### 🌱 Always Exploring
 
+Programming languages are tools — I love expanding the toolbox.
+Lately I’ve been experimenting with Rust, Elixir, and htmx, chasing new ideas
+in simplicity and system design.
 
 ## More Details
 
